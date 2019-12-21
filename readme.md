@@ -2,8 +2,7 @@
 
 ![alt-text-1](/images/open_field.gif "open field")
 
-
-## Video example of data output on [YouTube] (https://youtu.be/Q2ByLfwJIaw)
+## Video example of data output on [YouTube](https://youtu.be/Q2ByLfwJIaw)
 
 1. Place tracking files from DLC in **tracking_data** folder
 
