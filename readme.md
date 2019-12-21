@@ -8,7 +8,7 @@
 
 2. Place video files in **videos**  folder
 
-3. If visualizing the data, place the frames in ** input_frames**, within a subfolder with the same name as the video without file ending. 
+3. If visualizing the data, place the frames in the **input_frames** folder, within a subfolder with the same name as the video (without file ending). 
 
 4. Run the py files in the order 1,2,3,4. 
 
