@@ -1,8 +1,8 @@
-#### Python tool to analyse time spent in different open field areas based on pose estimation data from [deeplabcut](https://github.com/AlexEMG/DeepLabCut) 
+#### Python tool to analyse time spent in different open field areas based on pose estimation data from [deeplabcut](https://github.com/AlexEMG/DeepLabCut). 
 
 ![alt-text-1](/images/open_field.gif "open field")
 
-##### Video example of data output on [YouTube](https://youtu.be/Q2ByLfwJIaw)
+Video example of data output on [YouTube](https://youtu.be/Q2ByLfwJIaw).
 
 ##### Tutorial
 
